@@ -16,6 +16,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 10px;
 }
 
 
@@ -182,6 +183,7 @@ footer {
     justify-content: space-between;
     align-items: center;
     margin-top: 126px;
+    margin-bottom: 20px;
 }
 
 .nav-1 {

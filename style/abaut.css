@@ -16,6 +16,9 @@ header {
     justify-content: space-between;
     align-items: center;
     margin-top: 10px;
+    position: sticky;
+    left: 0;
+    top: 0;
 }
 
 
@@ -113,7 +116,7 @@ main {
 }
 
 
-.contact{
+.contact {
     margin-top: 71px;
     display: flex;
     justify-content: space-between;
@@ -127,29 +130,15 @@ main {
 }
 
 .contact div h2 {
-font: 400 32px 'DM Sans';
-color: #181717;
-width: 700px;
+    font: 400 32px 'DM Sans';
+    color: #181717;
+    width: 700px;
 }
 
 .contact h2 {
-font: 400 32px 'DM Sans';
-color: #181717;
+    font: 400 32px 'DM Sans';
+    color: #181717;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 footer {
     display: flex;

@@ -35,10 +35,14 @@ header nav {
     display: flex;
 }
 
-header nav p {
-    font: 500 22px 'DM Sans';
-    letter-spacing: -0.03em;
+header nav p a {
     color: #181717;
+    font: 500 22px 'DM Sans';
+    text-decoration: none;
+}
+
+header nav p a:hover {
+    text-decoration: underline;
 }
 
 header nav p:not(:last-child) {

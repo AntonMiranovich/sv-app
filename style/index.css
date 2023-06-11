@@ -16,10 +16,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 10px;
-    position: sticky;
-    left: 0;
+    position: fixed;
+    width: 1200px;
     top: 0;
+    background-color: #E5E5E5;
+    padding: 15px 0;
+    z-index: 2;
 }
 
 
@@ -79,6 +81,7 @@ header nav p:not(:last-child) {
     background-size: contain;
     margin-top: 128px;
     position: relative;
+    z-index: 1;
 }
 
 .arrow:hover {

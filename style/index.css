@@ -122,7 +122,7 @@ header nav p:not(:last-child) {
 }
 
 .img-3 {
-    background-image: url(../img/Thumbnail.svg);
+    background-image: url(../img/програм-2.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     width: 640px;
@@ -130,7 +130,7 @@ header nav p:not(:last-child) {
 }
 
 .img-5 {
-    background-image: url(../img/Thumbnail.svg);
+    background-image: url(../img/програм-3.jpeg);
     background-repeat: no-repeat;
     background-size: contain;
     width: 640px;
@@ -138,7 +138,7 @@ header nav p:not(:last-child) {
 }
 
 .img-4 {
-    background-image: url(../img/Thumbnail.svg);
+    background-image: url(../img/програм-4.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     width: 640px;

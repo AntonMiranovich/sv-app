@@ -127,8 +127,24 @@ header nav p:not(:last-child) {
     background-size: contain;
     width: 640px;
     height: 365px;
-
 }
+
+.img-5 {
+    background-image: url(../img/Thumbnail.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 640px;
+    height: 365px;
+}
+
+.img-4 {
+    background-image: url(../img/Thumbnail.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 640px;
+    height: 365px;
+}
+
 
 .line {
     background-color: #181717;
